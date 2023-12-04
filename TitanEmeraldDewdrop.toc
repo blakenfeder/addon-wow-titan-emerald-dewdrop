@@ -1,0 +1,22 @@
+## Interface: 100200
+
+## Title: Titan Panel [|cffeda55fEmerald Dewdrop|r] |cff00aa001.2.2.100200|r
+## Author: Blakenfeder
+## Version: 1.2.2.100200
+
+## Notes: Adds Emerald Dewdrop tracking to Titan Panel
+
+## RequiredDeps: Titan
+## X-Child-Of: Titan
+
+## DefaultState: Enabled
+
+## X-Category: Titan Panel
+## X-Website: https://github.com/blakenfeder/addon-wow-titan-emerald-dewdrop
+
+## X-Curse-Project-ID: 946230
+
+locale\Locale.enUS.lua
+locale\Locale.esMX.lua
+
+TitanEmeraldDewdrop.xml
